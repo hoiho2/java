@@ -17,6 +17,8 @@ public class _04_Operator4 {
         System.out.println((5 > 3) && (3 < 1)); // 5는 3보다 크고, 3은 1보다 작다(false)
 
         // or 연산자
+
+
         System.out.println((5 > 3) || (3 > 1)); //5는 3보다 크거나, 3은 1보다 크다(true)
         System.out.println((5 > 3) || (3 < 1)); //5는 3보다 크거나, 3은 1보다 작다(true)
         System.out.println((5 < 3) || (3 < 1)); //5는 3보다 작거나, 3은 1보다 작다(false)
